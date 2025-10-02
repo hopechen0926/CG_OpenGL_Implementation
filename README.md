@@ -10,11 +10,8 @@ This project showcases a 3D graphics renderer built with modern OpenGL. It inclu
 
 The application features an interactive right-click menu to load different 3D models and skybox backgrounds.
 
-![menu screenshots](<img width="586" height="593" alt="螢幕擷取畫面 2025-10-02 112531" src="https://github.com/user-attachments/assets/51e1851c-23f6-4037-8e05-bb3a3a02f700" />
+<img width="586" height="593" alt="螢幕擷取畫面 2025-10-02 112531" src="https://github.com/user-attachments/assets/51e1851c-23f6-4037-8e05-bb3a3a02f700" />
 
-)
-
-(More UI screenshots available in the Notion page.)
 
 ---
 
