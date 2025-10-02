@@ -2,7 +2,7 @@
 
 This project showcases a 3D graphics renderer built with modern OpenGL. It includes model loading, real-time lighting (directional, point, and spotlight), texture mapping, and a rotatable skybox environment. It was developed for educational purposes as part of a Computer Graphics course.
 
-> 🔗 [Project Drive Link](https://drive.google.com/file/d/1zaOoxtrSPdpZ3LsEyvuvA54merhzsLGV/view?usp=sharing)
+> 🔗 [Notion Link](https://chipped-cost-454.notion.site/Computer-Graphics-e3dcd4301e92456999933bd42a5cb0ea)
 
 ---
 
